@@ -1,0 +1,12 @@
+nice -n 19 ./run_genotypeGVCFs.sh ../02_combine_GVCFs_out/Scf_2L.MD.combined.g.vcf.gz
+nice -n 19 ./run_genotypeGVCFs.sh ../02_combine_GVCFs_out/Scf_2L.NS.combined.g.vcf.gz
+nice -n 19 ./run_genotypeGVCFs.sh ../02_combine_GVCFs_out/Scf_2R.MD.combined.g.vcf.gz
+nice -n 19 ./run_genotypeGVCFs.sh ../02_combine_GVCFs_out/Scf_2R.NS.combined.g.vcf.gz
+nice -n 19 ./run_genotypeGVCFs.sh ../02_combine_GVCFs_out/Scf_3L.MD.combined.g.vcf.gz
+nice -n 19 ./run_genotypeGVCFs.sh ../02_combine_GVCFs_out/Scf_3L.NS.combined.g.vcf.gz
+nice -n 19 ./run_genotypeGVCFs.sh ../02_combine_GVCFs_out/Scf_3R.MD.combined.g.vcf.gz
+nice -n 19 ./run_genotypeGVCFs.sh ../02_combine_GVCFs_out/Scf_3R.NS.combined.g.vcf.gz
+nice -n 19 ./run_genotypeGVCFs.sh ../02_combine_GVCFs_out/Scf_4.MD.combined.g.vcf.gz
+nice -n 19 ./run_genotypeGVCFs.sh ../02_combine_GVCFs_out/Scf_4.NS.combined.g.vcf.gz
+nice -n 19 ./run_genotypeGVCFs.sh ../02_combine_GVCFs_out/Scf_X.MD.combined.g.vcf.gz
+nice -n 19 ./run_genotypeGVCFs.sh ../02_combine_GVCFs_out/Scf_X.NS.combined.g.vcf.gz

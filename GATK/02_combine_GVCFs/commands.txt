@@ -1,0 +1,12 @@
+nice -n 19 ./run_combineGVCFs.sh gVCF_paths.MD.Scf_2L.list
+nice -n 19 ./run_combineGVCFs.sh gVCF_paths.MD.Scf_2R.list
+nice -n 19 ./run_combineGVCFs.sh gVCF_paths.MD.Scf_3L.list
+nice -n 19 ./run_combineGVCFs.sh gVCF_paths.MD.Scf_3R.list
+nice -n 19 ./run_combineGVCFs.sh gVCF_paths.MD.Scf_4.list
+nice -n 19 ./run_combineGVCFs.sh gVCF_paths.MD.Scf_X.list
+nice -n 19 ./run_combineGVCFs.sh gVCF_paths.NS.Scf_2L.list
+nice -n 19 ./run_combineGVCFs.sh gVCF_paths.NS.Scf_2R.list
+nice -n 19 ./run_combineGVCFs.sh gVCF_paths.NS.Scf_3L.list
+nice -n 19 ./run_combineGVCFs.sh gVCF_paths.NS.Scf_3R.list
+nice -n 19 ./run_combineGVCFs.sh gVCF_paths.NS.Scf_4.list
+nice -n 19 ./run_combineGVCFs.sh gVCF_paths.NS.Scf_X.list

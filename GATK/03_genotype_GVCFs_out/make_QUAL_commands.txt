@@ -1,0 +1,4 @@
+for file in *gz
+do
+  echo "python3 get_QUAL.py $file ${file}.QUAL.txt" >> commands_QUAL.txt
+done

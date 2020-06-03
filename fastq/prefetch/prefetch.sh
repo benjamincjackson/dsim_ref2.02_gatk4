@@ -1,0 +1,9 @@
+prefetch -L6 -O /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch SRR1931701 2> SRR1931701.err
+prefetch -L6 -O /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch SRR1943278 2> SRR1943278.err
+prefetch -L6 -O /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch SRR1943281 2> SRR1943281.err
+prefetch -L6 -O /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch SRR1943284 2> SRR1943284.err
+prefetch -L6 -O /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch SRR1943285 2> SRR1943285.err
+prefetch -L6 -O /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch SRR1943286 2> SRR1943286.err
+prefetch -L6 -O /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch SRR1943287 2> SRR1943287.err
+prefetch -L6 -O /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch SRR1943292 2> SRR1943292.err
+prefetch -L6 -O /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch SRR1943293 2> SRR1943293.err

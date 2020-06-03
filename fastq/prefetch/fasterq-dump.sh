@@ -1,0 +1,9 @@
+fasterq-dump /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch/SRR1931701.sra
+fasterq-dump /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch/SRR1943278.sra
+fasterq-dump /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch/SRR1943281.sra
+fasterq-dump /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch/SRR1943284.sra
+fasterq-dump /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch/SRR1943285.sra
+fasterq-dump /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch/SRR1943286.sra
+fasterq-dump /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch/SRR1943287.sra
+fasterq-dump /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch/SRR1943292.sra
+fasterq-dump /disk2/ben_tmp/dsim_variant_pipeline_ref_v2.02/fastq/prefetch/SRR1943293.sra

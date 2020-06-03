@@ -1,0 +1,2 @@
+fasterq-dump ERR668305 --skip-technical 2> ERR668305.err; bgzip ERR668305_1.fastq; bgzip ERR668305_2.fastq
+fasterq-dump ERR668308 --skip-technical 2> ERR668308.err; bgzip ERR668308_1.fastq; bgzip ERR668308_2.fastq
